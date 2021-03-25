@@ -1,0 +1,16 @@
+.page{
+    height: 100vh;
+    background: linear-gradient(to right, rgb(20, 30, 48), rgb(36, 59, 85));
+}
+.title{
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold !important;
+}
+.searchbar{
+    background-color: rgb(59, 59, 59) !important;
+    color: rgb(255, 255, 255) !important;
+    font-family: 'Dancing Script', cursive;
+    font-size: 15px !important;
+    border: solid 1px black !important;
+
+}

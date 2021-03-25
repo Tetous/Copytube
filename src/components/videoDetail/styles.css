@@ -1,0 +1,11 @@
+@media(max-width: 719px){
+    .videoHighlight{
+        height: 25vh;
+    }
+}
+
+@media (min-width: 720px){
+    .videoHighlight{
+        height: 60vh;
+    }
+}
